@@ -27,6 +27,7 @@
         Dim dt As DateTime
 
         txtPath.Text = path
+        gbxFile.Text = path
 
         dt = IO.File.GetCreationTime(path)
         lblCreatedDateTime.Text = dt.ToString("yyyy/MM/dd HH:mm:ss")
@@ -79,4 +80,15 @@
         IO.File.SetLastAccessTime(path, dt)
     End Sub
 
+    Private Sub mnuFileOpen_Click(sender As Object, e As EventArgs) Handles mnuFileOpen.Click
+        If OpenFileDialog.ShowDialog() = DialogResult.OK Then
+            Get_DateTime(OpenFileDialog.FileName)
+        End If
+    End Sub
+
+    Private Sub mnuHelpAbout_Click(sender As Object, e As EventArgs) Handles mnuHelpAbout.Click
+        MsgBox(Application.ProductName + vbCrLf +
+               "version " + Application.ProductVersion + vbCrLf +
+               Application.CompanyName)
+    End Sub
 End Class

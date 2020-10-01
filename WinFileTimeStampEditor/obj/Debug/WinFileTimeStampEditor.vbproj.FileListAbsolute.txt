@@ -10,3 +10,15 @@ C:\Users\leiqunni\Documents\Visual Studio\2019\Projects\WinFileTimeStampEditor\W
 C:\Users\leiqunni\Documents\Visual Studio\2019\Projects\WinFileTimeStampEditor\WinFileTimeStampEditor\obj\Debug\WinFileTimeStampEditor.exe
 C:\Users\leiqunni\Documents\Visual Studio\2019\Projects\WinFileTimeStampEditor\WinFileTimeStampEditor\obj\Debug\WinFileTimeStampEditor.xml
 C:\Users\leiqunni\Documents\Visual Studio\2019\Projects\WinFileTimeStampEditor\WinFileTimeStampEditor\obj\Debug\WinFileTimeStampEditor.pdb
+C:\Users\leiqunni\Documents\GitHub\WinFileTimeStampEditor\WinFileTimeStampEditor\bin\Debug\WinFileTimeStampEditor.exe.config
+C:\Users\leiqunni\Documents\GitHub\WinFileTimeStampEditor\WinFileTimeStampEditor\bin\Debug\WinFileTimeStampEditor.exe
+C:\Users\leiqunni\Documents\GitHub\WinFileTimeStampEditor\WinFileTimeStampEditor\bin\Debug\WinFileTimeStampEditor.pdb
+C:\Users\leiqunni\Documents\GitHub\WinFileTimeStampEditor\WinFileTimeStampEditor\bin\Debug\WinFileTimeStampEditor.xml
+C:\Users\leiqunni\Documents\GitHub\WinFileTimeStampEditor\WinFileTimeStampEditor\obj\Debug\WinFileTimeStampEditor.vbprojAssemblyReference.cache
+C:\Users\leiqunni\Documents\GitHub\WinFileTimeStampEditor\WinFileTimeStampEditor\obj\Debug\WinFileTimeStampEditor.Form1.resources
+C:\Users\leiqunni\Documents\GitHub\WinFileTimeStampEditor\WinFileTimeStampEditor\obj\Debug\WinFileTimeStampEditor.Resources.resources
+C:\Users\leiqunni\Documents\GitHub\WinFileTimeStampEditor\WinFileTimeStampEditor\obj\Debug\WinFileTimeStampEditor.vbproj.GenerateResource.cache
+C:\Users\leiqunni\Documents\GitHub\WinFileTimeStampEditor\WinFileTimeStampEditor\obj\Debug\WinFileTimeStampEditor.vbproj.CoreCompileInputs.cache
+C:\Users\leiqunni\Documents\GitHub\WinFileTimeStampEditor\WinFileTimeStampEditor\obj\Debug\WinFileTimeStampEditor.exe
+C:\Users\leiqunni\Documents\GitHub\WinFileTimeStampEditor\WinFileTimeStampEditor\obj\Debug\WinFileTimeStampEditor.xml
+C:\Users\leiqunni\Documents\GitHub\WinFileTimeStampEditor\WinFileTimeStampEditor\obj\Debug\WinFileTimeStampEditor.pdb
