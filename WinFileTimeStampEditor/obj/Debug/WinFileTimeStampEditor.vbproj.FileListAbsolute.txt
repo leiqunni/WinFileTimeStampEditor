@@ -14,7 +14,6 @@ C:\Users\leiqunni\Documents\GitHub\WinFileTimeStampEditor\WinFileTimeStampEditor
 C:\Users\leiqunni\Documents\GitHub\WinFileTimeStampEditor\WinFileTimeStampEditor\bin\Debug\WinFileTimeStampEditor.exe
 C:\Users\leiqunni\Documents\GitHub\WinFileTimeStampEditor\WinFileTimeStampEditor\bin\Debug\WinFileTimeStampEditor.pdb
 C:\Users\leiqunni\Documents\GitHub\WinFileTimeStampEditor\WinFileTimeStampEditor\bin\Debug\WinFileTimeStampEditor.xml
-C:\Users\leiqunni\Documents\GitHub\WinFileTimeStampEditor\WinFileTimeStampEditor\obj\Debug\WinFileTimeStampEditor.vbprojAssemblyReference.cache
 C:\Users\leiqunni\Documents\GitHub\WinFileTimeStampEditor\WinFileTimeStampEditor\obj\Debug\WinFileTimeStampEditor.Form1.resources
 C:\Users\leiqunni\Documents\GitHub\WinFileTimeStampEditor\WinFileTimeStampEditor\obj\Debug\WinFileTimeStampEditor.Resources.resources
 C:\Users\leiqunni\Documents\GitHub\WinFileTimeStampEditor\WinFileTimeStampEditor\obj\Debug\WinFileTimeStampEditor.vbproj.GenerateResource.cache
